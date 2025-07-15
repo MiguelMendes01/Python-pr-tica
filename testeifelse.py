@@ -9,7 +9,7 @@ delta1 = (belevado)**2 - 4*(a)*(c)
 delta = math.sqrt(delta1)
 
 bhaskara1 = (-b + delta) / (2 * a)
-bhaskara2 = (-b - delta) / (2 * a
+bhaskara2 = (-b - delta) / (2 * a)
 
 print(delta1)
 print(bhaskara1)
